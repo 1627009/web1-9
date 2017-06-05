@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-  background-image:url(../img/ticket_premium.png),url(../img/IMG_3363.JPG);
+  background-image:url(../img/ticket_premium.png) width=100,url(../img/IMG_3363.JPG) width=800;
   background-repeat:no-repeat,no-repeat;
   margin:5px;
 }

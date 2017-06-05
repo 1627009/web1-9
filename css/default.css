@@ -43,7 +43,7 @@ body{
 
 .button:hover{
    background:linear-gradient(180deg,
-     #87ceeb
+     #87ceeb,
      #afeeee;
   text-decoration:none;
   padding:5px;

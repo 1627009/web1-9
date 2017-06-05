@@ -4,7 +4,6 @@ body{
   background-image:url(../img/ticket_premium.png),url(../img/IMG_3363.JPG);
   background-repeat:no-repeat,no-repeat;
   background-size:100px,1200px;
-  background-position:300px,0px,0px,0px;
   margin:5px;
 }
 
@@ -37,4 +36,12 @@ body{
     #00008b,
     #00bfff);
   transform:translate(500px,100px);
+  transition:1s;
+}
+
+.button:hover{
+  background-color:#87ceeb;
+  text-decoration:none;
+  padding:5px;
+  color:#ffffff;
 }

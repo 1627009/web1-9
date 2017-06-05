@@ -26,6 +26,7 @@ body{
 }
 
 .button{
+  color:#ffffff;
   display:block;
   margin:5px;
   padding:10px;
@@ -42,11 +43,11 @@ body{
 }
 
 .button:hover{
+  color:#000000;
   background-color:#87ceeb;
   background:linear-gradient(180deg,
      #87ceeb,
      #afeeee);
   text-decoration:none;
   padding:5px;
-  color:#ffffff;
 }

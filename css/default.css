@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+body{
+  background-image:url(../img/ticket_premium.png),url(../img/IMG_3363.JPG);
+  background-repeat:no-repeat,no-repeat;
+  margin:5px;
+}
+
 .neon{
   color:#ffffff;
   text-shadow: 0px 0px 5px #ffffff,

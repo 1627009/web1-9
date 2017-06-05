@@ -4,7 +4,6 @@ body{
   background-image:url(../img/ticket_premium.png),url(../img/IMG_3363.JPG);
   background-repeat:no-repeat,no-repeat;
   background-size:100px,1200px;
-  transform:translateX(300px);
   margin:5px;
 }
 
@@ -36,4 +35,5 @@ body{
   background:linear-gradient(180deg,
     #00008b,
     #00bfff);
+  transform:translate(600px,100px);
 }
